@@ -10,3 +10,4 @@ while num >0:
 if(temp==rev):
     print("Number is Palandrome")
 else:
+    print("Number is not palandrome")
